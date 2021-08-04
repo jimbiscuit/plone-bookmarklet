@@ -1,6 +1,6 @@
 javascript:
-var destination = "manage_main";
-var in_place = true;
+var destination = "";//destination that will be append at the end of the URL
+var in_place = false;//if true the path will not be removed
 var current_url = new URL(document.URL);
 var new_url = "";
 if (in_place) {
