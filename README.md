@@ -14,7 +14,7 @@ And then in your web browser go to your bookmark manager and import ```bookmark.
 
 ## Create your own bookmarklet
 
-Copy an existing bookmarklet and edit the URL of the new bookmarklet at the start of the script ther is two variable :
+Copy an existing bookmarklet and edit the URL of the new bookmarklet at the start of the script there is two variable :
 
 This one define the path that will be append at the end of the URL :
 ```javascript
